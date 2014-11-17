@@ -1,13 +1,6 @@
-[b]TechTalk "Modern full-stack JavaScript web app solution structure: Yo, Gulp, NPM and Bower”[/b]
+<h1>TechTalk "Modern full-stack JavaScript web app solution structure: Yo, Gulp, NPM and Bower”</h1>
 
 Example of modern full-stack JavaScript web app using Yo, Gulp, NPM and Bower tools for the following development tasks:
-- Application template scaffolding;
-- Dependencies manangement;
-- Build system:
-  - Code compilation and validation; application start-up and testing;
-  - Code metrics reports and documentation generation;
-  - Application distribution package generation.
-
 
 - Application template scaffolding 
 yo (http://yeoman.io/) scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
